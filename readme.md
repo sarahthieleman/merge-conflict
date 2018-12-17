@@ -1,3 +1,3 @@
 # Merge conflicts explained
 
-My name is Sjaak
+My name is Sarah
